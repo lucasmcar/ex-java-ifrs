@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExHerancaCinco/ExHerancaCinco.iml" filepath="$PROJECT_DIR$/ExHerancaCinco/ExHerancaCinco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExHerancaDois.iml" filepath="$PROJECT_DIR$/ExHerancaDois.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExHerancaQuatro/ExHerancaQuatro.iml" filepath="$PROJECT_DIR$/ExHerancaQuatro/ExHerancaQuatro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExHerancaTres.iml" filepath="$PROJECT_DIR$/ExHerancaTres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExHerancaUm/ExHerancaUm.iml" filepath="$PROJECT_DIR$/ExHerancaUm/ExHerancaUm.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExJava01/ExJava01.iml" filepath="$PROJECT_DIR$/ExJava01/ExJava01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExJava02/ExJava02.iml" filepath="$PROJECT_DIR$/ExJava02/ExJava02.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExJava03/ExJava03.iml" filepath="$PROJECT_DIR$/ExJava03/ExJava03.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExJava04/ExJava04.iml" filepath="$PROJECT_DIR$/ExJava04/ExJava04.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExJava05/ExJava05.iml" filepath="$PROJECT_DIR$/ExJava05/ExJava05.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExJava06/ExJava06.iml" filepath="$PROJECT_DIR$/ExJava06/ExJava06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExJavaHeranca/ExJavaHeranca.iml" filepath="$PROJECT_DIR$/ExJavaHeranca/ExJavaHeranca.iml" />
     </modules>
   </component>
 </project>

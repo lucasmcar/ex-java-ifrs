@@ -2,14 +2,14 @@ package entidades;
 
 public class Livro {
 
-    String titulo;
-    String autor;
-    String area;
-    String editora;
-    int ano;
-    String edicao;
-    int nmFolhas;
-    boolean emprestimo;
+    private String titulo;
+    private String autor;
+    private String area;
+    private String editora;
+    private int ano;
+    private String edicao;
+    private int nmFolhas;
+    private boolean emprestimo;
 
     public Livro() {
     }
