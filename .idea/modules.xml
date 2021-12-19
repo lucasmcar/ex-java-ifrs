@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExJava05/ExJava05.iml" filepath="$PROJECT_DIR$/ExJava05/ExJava05.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExJava06/ExJava06.iml" filepath="$PROJECT_DIR$/ExJava06/ExJava06.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExJavaHeranca/ExJavaHeranca.iml" filepath="$PROJECT_DIR$/ExJavaHeranca/ExJavaHeranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioException/ExercicioException.iml" filepath="$PROJECT_DIR$/ExercicioException/ExercicioException.iml" />
     </modules>
   </component>
 </project>
